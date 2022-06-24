@@ -1,0 +1,14 @@
+[
+    {
+        "ParameterKey": "BucketName",
+        "ParameterValue": "thejitu-portfolio-website"
+    },
+    {
+        "ParameterKey": "HomePage",
+        "ParameterValue": "index.html"
+    },
+    {
+        "ParameterKey": "ErrorPage",
+        "ParameterValue": "404.html"
+    }
+]
